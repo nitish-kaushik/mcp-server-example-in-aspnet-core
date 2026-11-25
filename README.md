@@ -1,6 +1,16 @@
 # Build an MCP Server with ASP.NET Core: Model Context Protocol Tutorial & AI Example
 
-[![Watch the video: Learn MCP in One Video with Example](https://img.youtube.com/vi/1ApBbseQzwo/0.jpg)](https://www.youtube.com/watch?v=1ApBbseQzwo)
+## Watch the tutorial
+
+### Build an ASP.NET Core MCP server and connect it to an AI chat app
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=1ApBbseQzwo">
+    <img src="https://img.youtube.com/vi/1ApBbseQzwo/maxresdefault.jpg" alt="Watch the Model Context Protocol tutorial: build an MCP server with ASP.NET Core and connect it to an AI chat app" width="800">
+  </a>
+  <br>
+  ▶️ <strong><a href="https://www.youtube.com/watch?v=1ApBbseQzwo">Watch the full tutorial on YouTube</a></strong> · Click the thumbnail to play.
+</p>
 
 This repository demonstrates how to build an MCP server with ASP.NET Core and connect it to an AI-powered chat application.
 
