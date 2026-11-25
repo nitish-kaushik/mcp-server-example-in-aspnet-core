@@ -1,0 +1,14 @@
+# Build results
+**/bin/
+**/obj/
+
+# IDE files
+.idea/
+.vs/
+*.user
+*.suo
+
+# Local environment files
+.env
+.env.*
+!.env.example

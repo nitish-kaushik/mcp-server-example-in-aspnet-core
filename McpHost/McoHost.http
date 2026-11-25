@@ -1,0 +1,17 @@
+@McoHost_HostAddress = https://localhost:7027
+
+GET {{McoHost_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{McoHost_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+POST {{McoHost_HostAddress}}/api/chat/
+Accept: application/json
+Content-Type: application/json
+
+"Give me a list of all the employees?"

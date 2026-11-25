@@ -1,0 +1,11 @@
+@McpServer_HostAddress = http://localhost:5203
+
+GET {{McpServer_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{McpServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

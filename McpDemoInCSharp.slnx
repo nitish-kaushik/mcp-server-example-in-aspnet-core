@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="McpHost\McpHost.csproj" />
+  <Project Path="McpServer/McpServer.csproj" />
+</Solution>
